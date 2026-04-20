@@ -1,0 +1,8 @@
+{
+  "name": "Remix: AI Magic Mirror - Style Transform 1201",
+  "description": "Transform your real-world selfies into Anime, Ghibli, or Pixar 3D characters while maintaining identity and localized environment.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": []
+}
